@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/demo1",
+  "id": "OC/PHP/demo1",
+  "title": "Ceci est un test 1",
+  "description": "",
+  "source": "@site/docs/OC/PHP/demo1.md",
+  "sourceDirName": "OC/PHP",
+  "slug": "/OC/PHP/demo1",
+  "permalink": "/docs/OC/PHP/demo1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OC/PHP/demo1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "p2 !",
+    "permalink": "/docs/OC/PHP/Projet2/p2"
+  },
+  "next": {
+    "title": "Ceci est un H1",
+    "permalink": "/docs/OC/demo"
+  }
+}
