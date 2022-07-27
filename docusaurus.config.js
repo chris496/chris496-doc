@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentation Chris496',
+  title: 'Documentation de Chris496',
   tagline: 'Les dinosaures sont trop fort !',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
