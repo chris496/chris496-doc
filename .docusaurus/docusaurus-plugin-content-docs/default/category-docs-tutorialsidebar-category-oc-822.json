@@ -1,0 +1,16 @@
+{
+  "title": "OC",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/oc",
+  "permalink": "/docs/category/oc",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "PHP",
+      "permalink": "/docs/category/php"
+    }
+  }
+}

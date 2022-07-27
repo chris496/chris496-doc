@@ -1,0 +1,16 @@
+{
+  "title": "JS",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/js",
+  "permalink": "/docs/category/js",
+  "navigation": {
+    "previous": {
+      "title": "p2 !",
+      "permalink": "/docs/OC/PHP/Projet2/p2"
+    },
+    "next": {
+      "title": "js1 !",
+      "permalink": "/docs/OC/JS/demoJs"
+    }
+  }
+}

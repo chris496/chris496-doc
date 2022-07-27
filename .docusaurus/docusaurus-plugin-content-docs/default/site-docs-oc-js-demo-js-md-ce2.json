@@ -1,0 +1,20 @@
+{
+  "unversionedId": "OC/JS/demoJs",
+  "id": "OC/JS/demoJs",
+  "title": "js1 !",
+  "description": "",
+  "source": "@site/docs/OC/JS/demoJs.md",
+  "sourceDirName": "OC/JS",
+  "slug": "/OC/JS/demoJs",
+  "permalink": "/docs/OC/JS/demoJs",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OC/JS/demoJs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JS",
+    "permalink": "/docs/category/js"
+  }
+}

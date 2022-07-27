@@ -2,40 +2,8 @@
 sidebar_position: 1
 ---
 
-  # Ceci est un H1
+  # npm add docusaurus --dev 
 
-  ## Ceci est un H2
+  # npm run start            
 
-  ### Ceci est un H3
-
-  **Texte en gras**
-
-  *Texte en italique*
-
-  Ceci est une liste :
-
-  * Lorem
-  * ipsum
-
-  > Ceci est un citation
-
-  :::danger Ceci est le titre du bloc !
-  Ceci est un blog de **danger**
-  :::
-
-  :::success
-  Ceci est un blog de **success**
-  :::
-
-    ```js
-    // Ceci est un extrait de code JS
-    const foo = {
-      bar: 'John Doe',
-    }
-    ```
-
-    ```php
-    // Ceci est un extrait de code PHP
-    $foo = ['bar' => 'John Doe'];
-    ```
-
+  
