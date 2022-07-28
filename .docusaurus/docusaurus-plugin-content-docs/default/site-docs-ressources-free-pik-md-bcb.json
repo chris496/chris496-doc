@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Ressources/FreePik",
+  "id": "Ressources/FreePik",
+  "title": "FreePik",
+  "description": "FreePik",
+  "source": "@site/docs/Ressources/FreePik.md",
+  "sourceDirName": "Ressources",
+  "slug": "/Ressources/FreePik",
+  "permalink": "/docs/Ressources/FreePik",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Ressources/FreePik.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AdobeExpress",
+    "permalink": "/docs/Ressources/AdobeExpress"
+  }
+}

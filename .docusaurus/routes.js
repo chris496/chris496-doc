@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'df8'),
+    component: ComponentCreator('/docs', 'd5c'),
     routes: [
       {
         path: '/docs/category/js',
@@ -73,6 +73,54 @@ export default [
       {
         path: '/docs/category/projet2',
         component: ComponentCreator('/docs/category/projet2', '745'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/projet3',
+        component: ComponentCreator('/docs/category/projet3', '2b6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/projet4',
+        component: ComponentCreator('/docs/category/projet4', 'ad1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/projet5',
+        component: ComponentCreator('/docs/category/projet5', '0d6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/projet6',
+        component: ComponentCreator('/docs/category/projet6', '334'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/projet7',
+        component: ComponentCreator('/docs/category/projet7', 'fc8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/projet8',
+        component: ComponentCreator('/docs/category/projet8', '900'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/projet9',
+        component: ComponentCreator('/docs/category/projet9', 'a54'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/ressources',
+        component: ComponentCreator('/docs/category/ressources', '423'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -109,6 +157,60 @@ export default [
       {
         path: '/docs/OC/PHP/Projet2/p2',
         component: ComponentCreator('/docs/OC/PHP/Projet2/p2', '837'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Projet3/p3',
+        component: ComponentCreator('/docs/OC/PHP/Projet3/p3', '5d1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Projet4/p3',
+        component: ComponentCreator('/docs/OC/PHP/Projet4/p3', '52b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Projet5/p3',
+        component: ComponentCreator('/docs/OC/PHP/Projet5/p3', '12c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Projet6/p3',
+        component: ComponentCreator('/docs/OC/PHP/Projet6/p3', 'd01'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Projet7/p7',
+        component: ComponentCreator('/docs/OC/PHP/Projet7/p7', 'b5f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Projet8/p3',
+        component: ComponentCreator('/docs/OC/PHP/Projet8/p3', '7ae'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Projet9/p3',
+        component: ComponentCreator('/docs/OC/PHP/Projet9/p3', '915'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Ressources/AdobeExpress',
+        component: ComponentCreator('/docs/Ressources/AdobeExpress', '919'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Ressources/FreePik',
+        component: ComponentCreator('/docs/Ressources/FreePik', '35e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

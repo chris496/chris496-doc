@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Ressources/AdobeExpress",
+  "id": "Ressources/AdobeExpress",
+  "title": "AdobeExpress",
+  "description": "Adobe express (Convertissez gratuitement votre image en SVG)",
+  "source": "@site/docs/Ressources/AdobeExpress.md",
+  "sourceDirName": "Ressources",
+  "slug": "/Ressources/AdobeExpress",
+  "permalink": "/docs/Ressources/AdobeExpress",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Ressources/AdobeExpress.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ressources",
+    "permalink": "/docs/category/ressources"
+  },
+  "next": {
+    "title": "FreePik",
+    "permalink": "/docs/Ressources/FreePik"
+  }
+}

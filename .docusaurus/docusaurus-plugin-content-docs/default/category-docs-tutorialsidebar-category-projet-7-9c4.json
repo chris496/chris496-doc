@@ -1,0 +1,16 @@
+{
+  "title": "projet7",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/projet7",
+  "permalink": "/docs/category/projet7",
+  "navigation": {
+    "previous": {
+      "title": "p3",
+      "permalink": "/docs/OC/PHP/Projet6/p3"
+    },
+    "next": {
+      "title": "p7 !",
+      "permalink": "/docs/OC/PHP/Projet7/p7"
+    }
+  }
+}

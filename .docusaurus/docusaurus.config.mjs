@@ -6,17 +6,17 @@
 export default {
   "title": "Documentation de Chris496",
   "tagline": "Les dinosaures sont trop fort !",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://marvelous-centaur.netlify.app/",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "chris496",
+  "projectName": "doc-chris496",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "fr",
     "locales": [
-      "en"
+      "fr"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/chris496/chris496-doc"
         },
         "blog": {
           "showReadingTime": true,
@@ -36,6 +36,14 @@ export default {
         "theme": {
           "customCss": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\src\\css\\custom.css"
         }
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\node_modules\\@cmfcmf\\docusaurus-search-local\\lib\\server\\index.js",
+      {
+        "language": "fr"
       }
     ]
   ],
@@ -51,10 +59,10 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Accueil"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/chris496/chris496-doc",
           "label": "GitHub",
           "position": "right"
         }
@@ -65,42 +73,25 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Documentation Chris",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Accueil",
               "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
+          "title": "Ressources",
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/chris496/chris496-doc"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2022 Ma doc_chris496, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 Documentation de Chris496, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -332,7 +323,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "stylesheets": [],

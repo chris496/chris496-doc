@@ -8,17 +8,17 @@
   "slug": "/OC/PHP/demo1",
   "permalink": "/docs/OC/PHP/demo1",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OC/PHP/demo1.md",
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/demo1.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "p2 !",
-    "permalink": "/docs/OC/PHP/Projet2/p2"
+    "title": "p3",
+    "permalink": "/docs/OC/PHP/Projet9/p3"
   },
   "next": {
-    "title": "Ceci est un H1",
-    "permalink": "/docs/OC/demo"
+    "title": "JS",
+    "permalink": "/docs/category/js"
   }
 }

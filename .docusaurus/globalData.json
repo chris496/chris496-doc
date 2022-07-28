@@ -1,4 +1,14 @@
 {
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "tagsBoost": 3,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0,
+      "maxSearchResults": 8
+    }
+  },
   "docusaurus-plugin-content-docs": {
     "default": {
       "path": "/docs",
@@ -28,6 +38,51 @@
             {
               "id": "OC/PHP/Projet2/p2",
               "path": "/docs/OC/PHP/Projet2/p2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Projet3/p3",
+              "path": "/docs/OC/PHP/Projet3/p3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Projet4/p3",
+              "path": "/docs/OC/PHP/Projet4/p3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Projet5/p3",
+              "path": "/docs/OC/PHP/Projet5/p3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Projet6/p3",
+              "path": "/docs/OC/PHP/Projet6/p3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Projet7/p7",
+              "path": "/docs/OC/PHP/Projet7/p7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Projet8/p3",
+              "path": "/docs/OC/PHP/Projet8/p3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Projet9/p3",
+              "path": "/docs/OC/PHP/Projet9/p3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ressources/AdobeExpress",
+              "path": "/docs/Ressources/AdobeExpress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ressources/FreePik",
+              "path": "/docs/Ressources/FreePik",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -101,8 +156,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/projet3",
+              "path": "/docs/category/projet3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/projet4",
+              "path": "/docs/category/projet4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/projet5",
+              "path": "/docs/category/projet5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/projet6",
+              "path": "/docs/category/projet6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/projet7",
+              "path": "/docs/category/projet7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/projet8",
+              "path": "/docs/category/projet8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/projet9",
+              "path": "/docs/category/projet9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/js",
               "path": "/docs/category/js",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ressources",
+              "path": "/docs/category/ressources",
               "sidebar": "tutorialSidebar"
             }
           ],

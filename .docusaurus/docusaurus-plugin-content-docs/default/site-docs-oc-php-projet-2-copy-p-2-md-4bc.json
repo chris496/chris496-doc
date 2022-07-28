@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Projet2 copy/p2",
+  "id": "OC/PHP/Projet2 copy/p2",
+  "title": "p2 !",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Projet2 copy/p2.md",
+  "sourceDirName": "OC/PHP/Projet2 copy",
+  "slug": "/OC/PHP/Projet2 copy/p2",
+  "permalink": "/docs/OC/PHP/Projet2 copy/p2",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet2 copy/p2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "projet2",
+    "permalink": "/docs/category/projet2-1"
+  },
+  "next": {
+    "title": "Ceci est un test 1",
+    "permalink": "/docs/OC/PHP/demo1"
+  }
+}

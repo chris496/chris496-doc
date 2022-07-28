@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Projet7/p7",
+  "id": "OC/PHP/Projet7/p7",
+  "title": "p7 !",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Projet7/p7.md",
+  "sourceDirName": "OC/PHP/Projet7",
+  "slug": "/OC/PHP/Projet7/p7",
+  "permalink": "/docs/OC/PHP/Projet7/p7",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet7/p7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "projet7",
+    "permalink": "/docs/category/projet7"
+  },
+  "next": {
+    "title": "projet8",
+    "permalink": "/docs/category/projet8"
+  }
+}

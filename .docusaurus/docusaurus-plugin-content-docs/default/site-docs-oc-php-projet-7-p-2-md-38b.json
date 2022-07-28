@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Projet7/p2",
+  "id": "OC/PHP/Projet7/p2",
+  "title": "p7 !",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Projet7/p2.md",
+  "sourceDirName": "OC/PHP/Projet7",
+  "slug": "/OC/PHP/Projet7/p2",
+  "permalink": "/docs/OC/PHP/Projet7/p2",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet7/p2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "projet7",
+    "permalink": "/docs/category/projet7"
+  },
+  "next": {
+    "title": "Ceci est un test 1",
+    "permalink": "/docs/OC/PHP/demo1"
+  }
+}

@@ -10,7 +10,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "Gestion documentaire",
         "href": "/docs/intro",
         "docId": "intro"
       },
@@ -100,7 +100,7 @@
                 "items": [
                   {
                     "type": "link",
-                    "label": "p1 !",
+                    "label": "Create a Document",
                     "href": "/docs/OC/PHP/Projet1/p1",
                     "docId": "OC/PHP/Projet1/p1"
                   }
@@ -121,6 +121,111 @@
                   }
                 ],
                 "href": "/docs/category/projet2"
+              },
+              {
+                "type": "category",
+                "label": "projet3",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "p3",
+                    "href": "/docs/OC/PHP/Projet3/p3",
+                    "docId": "OC/PHP/Projet3/p3"
+                  }
+                ],
+                "href": "/docs/category/projet3"
+              },
+              {
+                "type": "category",
+                "label": "projet4",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "p3",
+                    "href": "/docs/OC/PHP/Projet4/p3",
+                    "docId": "OC/PHP/Projet4/p3"
+                  }
+                ],
+                "href": "/docs/category/projet4"
+              },
+              {
+                "type": "category",
+                "label": "projet5",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "p3",
+                    "href": "/docs/OC/PHP/Projet5/p3",
+                    "docId": "OC/PHP/Projet5/p3"
+                  }
+                ],
+                "href": "/docs/category/projet5"
+              },
+              {
+                "type": "category",
+                "label": "projet6",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "p3",
+                    "href": "/docs/OC/PHP/Projet6/p3",
+                    "docId": "OC/PHP/Projet6/p3"
+                  }
+                ],
+                "href": "/docs/category/projet6"
+              },
+              {
+                "type": "category",
+                "label": "projet7",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "p7 !",
+                    "href": "/docs/OC/PHP/Projet7/p7",
+                    "docId": "OC/PHP/Projet7/p7"
+                  }
+                ],
+                "href": "/docs/category/projet7"
+              },
+              {
+                "type": "category",
+                "label": "projet8",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "p3",
+                    "href": "/docs/OC/PHP/Projet8/p3",
+                    "docId": "OC/PHP/Projet8/p3"
+                  }
+                ],
+                "href": "/docs/category/projet8"
+              },
+              {
+                "type": "category",
+                "label": "projet9",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "p3",
+                    "href": "/docs/OC/PHP/Projet9/p3",
+                    "docId": "OC/PHP/Projet9/p3"
+                  }
+                ],
+                "href": "/docs/category/projet9"
               }
             ],
             "href": "/docs/category/php"
@@ -142,14 +247,35 @@
           }
         ],
         "href": "/docs/category/oc"
+      },
+      {
+        "type": "category",
+        "label": "Ressources",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "AdobeExpress",
+            "href": "/docs/Ressources/AdobeExpress",
+            "docId": "Ressources/AdobeExpress"
+          },
+          {
+            "type": "link",
+            "label": "FreePik",
+            "href": "/docs/Ressources/FreePik",
+            "docId": "Ressources/FreePik"
+          }
+        ],
+        "href": "/docs/category/ressources"
       }
     ]
   },
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "Gestion documentaire",
+      "description": "Lancer le serveur de développement",
       "sidebar": "tutorialSidebar"
     },
     "OC/JS/demoJs": {
@@ -160,14 +286,68 @@
     },
     "OC/PHP/Projet1/p1": {
       "id": "OC/PHP/Projet1/p1",
-      "title": "p1 !",
-      "description": "",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
       "sidebar": "tutorialSidebar"
     },
     "OC/PHP/Projet2/p2": {
       "id": "OC/PHP/Projet2/p2",
       "title": "p2 !",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Projet3/p3": {
+      "id": "OC/PHP/Projet3/p3",
+      "title": "p3",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Projet4/p3": {
+      "id": "OC/PHP/Projet4/p3",
+      "title": "p3",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Projet5/p3": {
+      "id": "OC/PHP/Projet5/p3",
+      "title": "p3",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Projet6/p3": {
+      "id": "OC/PHP/Projet6/p3",
+      "title": "p3",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Projet7/p7": {
+      "id": "OC/PHP/Projet7/p7",
+      "title": "p7 !",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Projet8/p3": {
+      "id": "OC/PHP/Projet8/p3",
+      "title": "p3",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Projet9/p3": {
+      "id": "OC/PHP/Projet9/p3",
+      "title": "p3",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Ressources/AdobeExpress": {
+      "id": "Ressources/AdobeExpress",
+      "title": "AdobeExpress",
+      "description": "Adobe express (Convertissez gratuitement votre image en SVG)",
+      "sidebar": "tutorialSidebar"
+    },
+    "Ressources/FreePik": {
+      "id": "Ressources/FreePik",
+      "title": "FreePik",
+      "description": "FreePik",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

@@ -1,0 +1,16 @@
+{
+  "title": "Ressources",
+  "description": "description",
+  "slug": "/category/ressources",
+  "permalink": "/docs/category/ressources",
+  "navigation": {
+    "previous": {
+      "title": "js1 !",
+      "permalink": "/docs/OC/JS/demoJs"
+    },
+    "next": {
+      "title": "AdobeExpress",
+      "permalink": "/docs/Ressources/AdobeExpress"
+    }
+  }
+}

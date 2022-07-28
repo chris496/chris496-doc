@@ -8,7 +8,7 @@
   "slug": "/OC/PHP/Projet2/p2",
   "permalink": "/docs/OC/PHP/Projet2/p2",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OC/PHP/Projet2/p2.md",
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet2/p2.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
@@ -18,7 +18,7 @@
     "permalink": "/docs/category/projet2"
   },
   "next": {
-    "title": "JS",
-    "permalink": "/docs/category/js"
+    "title": "projet3",
+    "permalink": "/docs/category/projet3"
   }
 }

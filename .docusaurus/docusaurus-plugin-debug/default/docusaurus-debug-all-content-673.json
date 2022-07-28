@@ -10,25 +10,25 @@
           "className": "docs-version-current",
           "path": "/docs",
           "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/chris496/chris496-doc/docs",
+          "editUrlLocalized": "https://github.com/chris496/chris496-doc/i18n/fr/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\sidebars.js",
           "contentPath": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\docs",
-          "contentPathLocalized": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "contentPathLocalized": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\i18n\\fr\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "Gestion documentaire",
+              "description": "Lancer le serveur de développement",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
               "permalink": "/docs/intro",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -51,7 +51,7 @@
               "slug": "/OC/JS/demoJs",
               "permalink": "/docs/OC/JS/demoJs",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OC/JS/demoJs.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/JS/demoJs.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -59,19 +59,23 @@
               "previous": {
                 "title": "JS",
                 "permalink": "/docs/category/js"
+              },
+              "next": {
+                "title": "Ressources",
+                "permalink": "/docs/category/ressources"
               }
             },
             {
               "unversionedId": "OC/PHP/Projet1/p1",
               "id": "OC/PHP/Projet1/p1",
-              "title": "p1 !",
-              "description": "",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
               "source": "@site/docs/OC/PHP/Projet1/p1.md",
               "sourceDirName": "OC/PHP/Projet1",
               "slug": "/OC/PHP/Projet1/p1",
               "permalink": "/docs/OC/PHP/Projet1/p1",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OC/PHP/Projet1/p1.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet1/p1.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -95,7 +99,7 @@
               "slug": "/OC/PHP/Projet2/p2",
               "permalink": "/docs/OC/PHP/Projet2/p2",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/OC/PHP/Projet2/p2.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet2/p2.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -105,8 +109,226 @@
                 "permalink": "/docs/category/projet2"
               },
               "next": {
+                "title": "projet3",
+                "permalink": "/docs/category/projet3"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Projet3/p3",
+              "id": "OC/PHP/Projet3/p3",
+              "title": "p3",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Projet3/p3.md",
+              "sourceDirName": "OC/PHP/Projet3",
+              "slug": "/OC/PHP/Projet3/p3",
+              "permalink": "/docs/OC/PHP/Projet3/p3",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet3/p3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "projet3",
+                "permalink": "/docs/category/projet3"
+              },
+              "next": {
+                "title": "projet4",
+                "permalink": "/docs/category/projet4"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Projet4/p3",
+              "id": "OC/PHP/Projet4/p3",
+              "title": "p3",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Projet4/p3.md",
+              "sourceDirName": "OC/PHP/Projet4",
+              "slug": "/OC/PHP/Projet4/p3",
+              "permalink": "/docs/OC/PHP/Projet4/p3",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet4/p3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "projet4",
+                "permalink": "/docs/category/projet4"
+              },
+              "next": {
+                "title": "projet5",
+                "permalink": "/docs/category/projet5"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Projet5/p3",
+              "id": "OC/PHP/Projet5/p3",
+              "title": "p3",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Projet5/p3.md",
+              "sourceDirName": "OC/PHP/Projet5",
+              "slug": "/OC/PHP/Projet5/p3",
+              "permalink": "/docs/OC/PHP/Projet5/p3",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet5/p3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "projet5",
+                "permalink": "/docs/category/projet5"
+              },
+              "next": {
+                "title": "projet6",
+                "permalink": "/docs/category/projet6"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Projet6/p3",
+              "id": "OC/PHP/Projet6/p3",
+              "title": "p3",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Projet6/p3.md",
+              "sourceDirName": "OC/PHP/Projet6",
+              "slug": "/OC/PHP/Projet6/p3",
+              "permalink": "/docs/OC/PHP/Projet6/p3",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet6/p3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "projet6",
+                "permalink": "/docs/category/projet6"
+              },
+              "next": {
+                "title": "projet7",
+                "permalink": "/docs/category/projet7"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Projet7/p7",
+              "id": "OC/PHP/Projet7/p7",
+              "title": "p7 !",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Projet7/p7.md",
+              "sourceDirName": "OC/PHP/Projet7",
+              "slug": "/OC/PHP/Projet7/p7",
+              "permalink": "/docs/OC/PHP/Projet7/p7",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet7/p7.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "projet7",
+                "permalink": "/docs/category/projet7"
+              },
+              "next": {
+                "title": "projet8",
+                "permalink": "/docs/category/projet8"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Projet8/p3",
+              "id": "OC/PHP/Projet8/p3",
+              "title": "p3",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Projet8/p3.md",
+              "sourceDirName": "OC/PHP/Projet8",
+              "slug": "/OC/PHP/Projet8/p3",
+              "permalink": "/docs/OC/PHP/Projet8/p3",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet8/p3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "projet8",
+                "permalink": "/docs/category/projet8"
+              },
+              "next": {
+                "title": "projet9",
+                "permalink": "/docs/category/projet9"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Projet9/p3",
+              "id": "OC/PHP/Projet9/p3",
+              "title": "p3",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Projet9/p3.md",
+              "sourceDirName": "OC/PHP/Projet9",
+              "slug": "/OC/PHP/Projet9/p3",
+              "permalink": "/docs/OC/PHP/Projet9/p3",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet9/p3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "projet9",
+                "permalink": "/docs/category/projet9"
+              },
+              "next": {
                 "title": "JS",
                 "permalink": "/docs/category/js"
+              }
+            },
+            {
+              "unversionedId": "Ressources/AdobeExpress",
+              "id": "Ressources/AdobeExpress",
+              "title": "AdobeExpress",
+              "description": "Adobe express (Convertissez gratuitement votre image en SVG)",
+              "source": "@site/docs/Ressources/AdobeExpress.md",
+              "sourceDirName": "Ressources",
+              "slug": "/Ressources/AdobeExpress",
+              "permalink": "/docs/Ressources/AdobeExpress",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Ressources/AdobeExpress.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Ressources",
+                "permalink": "/docs/category/ressources"
+              },
+              "next": {
+                "title": "FreePik",
+                "permalink": "/docs/Ressources/FreePik"
+              }
+            },
+            {
+              "unversionedId": "Ressources/FreePik",
+              "id": "Ressources/FreePik",
+              "title": "FreePik",
+              "description": "FreePik",
+              "source": "@site/docs/Ressources/FreePik.md",
+              "sourceDirName": "Ressources",
+              "slug": "/Ressources/FreePik",
+              "permalink": "/docs/Ressources/FreePik",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Ressources/FreePik.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "AdobeExpress",
+                "permalink": "/docs/Ressources/AdobeExpress"
               }
             },
             {
@@ -119,7 +341,7 @@
               "slug": "/tutorial-basics/congratulations",
               "permalink": "/docs/tutorial-basics/congratulations",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -146,7 +368,7 @@
               "slug": "/tutorial-basics/create-a-blog-post",
               "permalink": "/docs/tutorial-basics/create-a-blog-post",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -173,7 +395,7 @@
               "slug": "/tutorial-basics/create-a-document",
               "permalink": "/docs/tutorial-basics/create-a-document",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -200,7 +422,7 @@
               "slug": "/tutorial-basics/create-a-page",
               "permalink": "/docs/tutorial-basics/create-a-page",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -227,7 +449,7 @@
               "slug": "/tutorial-basics/deploy-your-site",
               "permalink": "/docs/tutorial-basics/deploy-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -254,7 +476,7 @@
               "slug": "/tutorial-basics/markdown-features",
               "permalink": "/docs/tutorial-basics/markdown-features",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -281,7 +503,7 @@
               "slug": "/tutorial-extras/manage-docs-versions",
               "permalink": "/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -308,7 +530,7 @@
               "slug": "/tutorial-extras/translate-your-site",
               "permalink": "/docs/tutorial-extras/translate-your-site",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -439,6 +661,132 @@
                           "slug": "/category/projet2",
                           "permalink": "/docs/category/projet2"
                         }
+                      },
+                      {
+                        "type": "category",
+                        "label": "projet3",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Projet3/p3"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/projet3",
+                          "permalink": "/docs/category/projet3"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "projet4",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Projet4/p3"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/projet4",
+                          "permalink": "/docs/category/projet4"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "projet5",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Projet5/p3"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/projet5",
+                          "permalink": "/docs/category/projet5"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "projet6",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Projet6/p3"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/projet6",
+                          "permalink": "/docs/category/projet6"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "projet7",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Projet7/p7"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/projet7",
+                          "permalink": "/docs/category/projet7"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "projet8",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Projet8/p3"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/projet8",
+                          "permalink": "/docs/category/projet8"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "projet9",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Projet9/p3"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "5 minutes to learn the most important Docusaurus concepts.",
+                          "slug": "/category/projet9",
+                          "permalink": "/docs/category/projet9"
+                        }
                       }
                     ],
                     "link": {
@@ -469,9 +817,31 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "description": "description",
                   "slug": "/category/oc",
                   "permalink": "/docs/category/oc"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Ressources",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ressources/AdobeExpress"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ressources/FreePik"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "description",
+                  "slug": "/category/ressources",
+                  "permalink": "/docs/category/ressources"
                 }
               }
             ]
@@ -511,6 +881,7 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
+  "@cmfcmf/docusaurus-search-local": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

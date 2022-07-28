@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Projet9/p3",
+  "id": "OC/PHP/Projet9/p3",
+  "title": "p3",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Projet9/p3.md",
+  "sourceDirName": "OC/PHP/Projet9",
+  "slug": "/OC/PHP/Projet9/p3",
+  "permalink": "/docs/OC/PHP/Projet9/p3",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet9/p3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "projet9",
+    "permalink": "/docs/category/projet9"
+  },
+  "next": {
+    "title": "JS",
+    "permalink": "/docs/category/js"
+  }
+}
