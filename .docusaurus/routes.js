@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7b1'),
+    component: ComponentCreator('/docs', 'ea6'),
     routes: [
       {
         path: '/docs/category/js',
@@ -55,6 +55,12 @@ export default [
       {
         path: '/docs/category/linux--docker',
         component: ComponentCreator('/docs/category/linux--docker', '4e5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/objectifs',
+        component: ComponentCreator('/docs/category/objectifs', '263'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -161,8 +167,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/OC/PHP/demo1',
-        component: ComponentCreator('/docs/OC/PHP/demo1', '023'),
+        path: '/docs/OC/PHP/Objectifs/P6',
+        component: ComponentCreator('/docs/OC/PHP/Objectifs/P6', '41a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Objectifs/P7',
+        component: ComponentCreator('/docs/OC/PHP/Objectifs/P7', 'c84'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Objectifs/P8',
+        component: ComponentCreator('/docs/OC/PHP/Objectifs/P8', '70c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/Objectifs/P9',
+        component: ComponentCreator('/docs/OC/PHP/Objectifs/P9', '87d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

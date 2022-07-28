@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Objectifs/P9",
+  "id": "OC/PHP/Objectifs/P9",
+  "title": "P9",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Objectifs/P9.md",
+  "sourceDirName": "OC/PHP/Objectifs",
+  "slug": "/OC/PHP/Objectifs/P9",
+  "permalink": "/docs/OC/PHP/Objectifs/P9",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Objectifs/P9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "P8",
+    "permalink": "/docs/OC/PHP/Objectifs/P8"
+  },
+  "next": {
+    "title": "projet1",
+    "permalink": "/docs/category/projet1"
+  }
+}

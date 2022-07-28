@@ -5,12 +5,12 @@
   "permalink": "/docs/category/projet1-1",
   "navigation": {
     "previous": {
-      "title": "Symfony",
-      "permalink": "/docs/category/symfony"
+      "title": "test",
+      "permalink": "/docs/OC/PHP/Objectifs/"
     },
     "next": {
-      "title": "Linux + Docker",
-      "permalink": "/docs/Symfony/Linux + Docker/"
+      "title": "Create a Document",
+      "permalink": "/docs/OC/PHP/Projet1/p1"
     }
   }
 }

@@ -94,6 +94,39 @@
             "items": [
               {
                 "type": "category",
+                "label": "Objectifs",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "P6",
+                    "href": "/docs/OC/PHP/Objectifs/P6",
+                    "docId": "OC/PHP/Objectifs/P6"
+                  },
+                  {
+                    "type": "link",
+                    "label": "P7",
+                    "href": "/docs/OC/PHP/Objectifs/P7",
+                    "docId": "OC/PHP/Objectifs/P7"
+                  },
+                  {
+                    "type": "link",
+                    "label": "P8",
+                    "href": "/docs/OC/PHP/Objectifs/P8",
+                    "docId": "OC/PHP/Objectifs/P8"
+                  },
+                  {
+                    "type": "link",
+                    "label": "P9",
+                    "href": "/docs/OC/PHP/Objectifs/P9",
+                    "docId": "OC/PHP/Objectifs/P9"
+                  }
+                ],
+                "href": "/docs/category/objectifs"
+              },
+              {
+                "type": "category",
                 "label": "projet1",
                 "collapsible": true,
                 "collapsed": true,
@@ -226,12 +259,6 @@
                   }
                 ],
                 "href": "/docs/category/projet9"
-              },
-              {
-                "type": "link",
-                "label": "Ceci est un test 1",
-                "href": "/docs/OC/PHP/demo1",
-                "docId": "OC/PHP/demo1"
               }
             ],
             "href": "/docs/category/php"
@@ -344,9 +371,27 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "OC/PHP/demo1": {
-      "id": "OC/PHP/demo1",
-      "title": "Ceci est un test 1",
+    "OC/PHP/Objectifs/P6": {
+      "id": "OC/PHP/Objectifs/P6",
+      "title": "P6",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Objectifs/P7": {
+      "id": "OC/PHP/Objectifs/P7",
+      "title": "P7",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Objectifs/P8": {
+      "id": "OC/PHP/Objectifs/P8",
+      "title": "P8",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/Objectifs/P9": {
+      "id": "OC/PHP/Objectifs/P9",
+      "title": "P9",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

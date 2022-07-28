@@ -1,0 +1,16 @@
+{
+  "title": "Objectifs",
+  "description": "Objectifs de la prochaine session",
+  "slug": "/category/objectifs",
+  "permalink": "/docs/category/objectifs",
+  "navigation": {
+    "previous": {
+      "title": "PHP",
+      "permalink": "/docs/category/php"
+    },
+    "next": {
+      "title": "P6",
+      "permalink": "/docs/OC/PHP/Objectifs/P6"
+    }
+  }
+}

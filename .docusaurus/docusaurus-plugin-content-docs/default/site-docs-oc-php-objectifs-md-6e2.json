@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Objectifs",
+  "id": "OC/PHP/Objectifs",
+  "title": "test",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Objectifs.md",
+  "sourceDirName": "OC/PHP",
+  "slug": "/OC/PHP/Objectifs",
+  "permalink": "/docs/OC/PHP/Objectifs",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Objectifs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "p3",
+    "permalink": "/docs/OC/PHP/Projet9/p3"
+  },
+  "next": {
+    "title": "Ceci est un test 1",
+    "permalink": "/docs/OC/PHP/demo1"
+  }
+}

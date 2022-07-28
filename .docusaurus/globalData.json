@@ -31,8 +31,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "OC/PHP/demo1",
-              "path": "/docs/OC/PHP/demo1",
+              "id": "OC/PHP/Objectifs/P6",
+              "path": "/docs/OC/PHP/Objectifs/P6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Objectifs/P7",
+              "path": "/docs/OC/PHP/Objectifs/P7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Objectifs/P8",
+              "path": "/docs/OC/PHP/Objectifs/P8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "OC/PHP/Objectifs/P9",
+              "path": "/docs/OC/PHP/Objectifs/P9",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -178,6 +193,11 @@
             {
               "id": "/category/php",
               "path": "/docs/category/php",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/objectifs",
+              "path": "/docs/category/objectifs",
               "sidebar": "tutorialSidebar"
             },
             {

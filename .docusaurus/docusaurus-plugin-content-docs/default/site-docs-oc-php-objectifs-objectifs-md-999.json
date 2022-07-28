@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Objectifs/Objectifs",
+  "id": "OC/PHP/Objectifs/Objectifs",
+  "title": "P6",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Objectifs/Objectifs.md",
+  "sourceDirName": "OC/PHP/Objectifs",
+  "slug": "/OC/PHP/Objectifs/",
+  "permalink": "/docs/OC/PHP/Objectifs/",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Objectifs/Objectifs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Objectifs",
+    "permalink": "/docs/category/objectifs"
+  },
+  "next": {
+    "title": "projet1",
+    "permalink": "/docs/category/projet1"
+  }
+}

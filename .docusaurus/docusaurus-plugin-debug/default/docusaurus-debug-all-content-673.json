@@ -66,27 +66,99 @@
               }
             },
             {
-              "unversionedId": "OC/PHP/demo1",
-              "id": "OC/PHP/demo1",
-              "title": "Ceci est un test 1",
+              "unversionedId": "OC/PHP/Objectifs/P6",
+              "id": "OC/PHP/Objectifs/P6",
+              "title": "P6",
               "description": "",
-              "source": "@site/docs/OC/PHP/demo1.md",
-              "sourceDirName": "OC/PHP",
-              "slug": "/OC/PHP/demo1",
-              "permalink": "/docs/OC/PHP/demo1",
+              "source": "@site/docs/OC/PHP/Objectifs/P6.md",
+              "sourceDirName": "OC/PHP/Objectifs",
+              "slug": "/OC/PHP/Objectifs/P6",
+              "permalink": "/docs/OC/PHP/Objectifs/P6",
               "draft": false,
-              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/demo1.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Objectifs/P6.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "p3",
-                "permalink": "/docs/OC/PHP/Projet9/p3"
+                "title": "Objectifs",
+                "permalink": "/docs/category/objectifs"
               },
               "next": {
-                "title": "JS",
-                "permalink": "/docs/category/js"
+                "title": "P7",
+                "permalink": "/docs/OC/PHP/Objectifs/P7"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Objectifs/P7",
+              "id": "OC/PHP/Objectifs/P7",
+              "title": "P7",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Objectifs/P7.md",
+              "sourceDirName": "OC/PHP/Objectifs",
+              "slug": "/OC/PHP/Objectifs/P7",
+              "permalink": "/docs/OC/PHP/Objectifs/P7",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Objectifs/P7.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "P6",
+                "permalink": "/docs/OC/PHP/Objectifs/P6"
+              },
+              "next": {
+                "title": "P8",
+                "permalink": "/docs/OC/PHP/Objectifs/P8"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Objectifs/P8",
+              "id": "OC/PHP/Objectifs/P8",
+              "title": "P8",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Objectifs/P8.md",
+              "sourceDirName": "OC/PHP/Objectifs",
+              "slug": "/OC/PHP/Objectifs/P8",
+              "permalink": "/docs/OC/PHP/Objectifs/P8",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Objectifs/P8.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "P7",
+                "permalink": "/docs/OC/PHP/Objectifs/P7"
+              },
+              "next": {
+                "title": "P9",
+                "permalink": "/docs/OC/PHP/Objectifs/P9"
+              }
+            },
+            {
+              "unversionedId": "OC/PHP/Objectifs/P9",
+              "id": "OC/PHP/Objectifs/P9",
+              "title": "P9",
+              "description": "",
+              "source": "@site/docs/OC/PHP/Objectifs/P9.md",
+              "sourceDirName": "OC/PHP/Objectifs",
+              "slug": "/OC/PHP/Objectifs/P9",
+              "permalink": "/docs/OC/PHP/Objectifs/P9",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Objectifs/P9.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "P8",
+                "permalink": "/docs/OC/PHP/Objectifs/P8"
+              },
+              "next": {
+                "title": "projet1",
+                "permalink": "/docs/category/projet1"
               }
             },
             {
@@ -301,8 +373,8 @@
                 "permalink": "/docs/category/projet9"
               },
               "next": {
-                "title": "Ceci est un test 1",
-                "permalink": "/docs/OC/PHP/demo1"
+                "title": "JS",
+                "permalink": "/docs/category/js"
               }
             },
             {
@@ -801,6 +873,36 @@
                     "items": [
                       {
                         "type": "category",
+                        "label": "Objectifs",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Objectifs/P6"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Objectifs/P7"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Objectifs/P8"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "OC/PHP/Objectifs/P9"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Objectifs de la prochaine session",
+                          "slug": "/category/objectifs",
+                          "permalink": "/docs/category/objectifs"
+                        }
+                      },
+                      {
+                        "type": "category",
                         "label": "projet1",
                         "collapsible": true,
                         "collapsed": true,
@@ -960,10 +1062,6 @@
                           "slug": "/category/projet9",
                           "permalink": "/docs/category/projet9"
                         }
-                      },
-                      {
-                        "type": "doc",
-                        "id": "OC/PHP/demo1"
                       }
                     ],
                     "link": {
