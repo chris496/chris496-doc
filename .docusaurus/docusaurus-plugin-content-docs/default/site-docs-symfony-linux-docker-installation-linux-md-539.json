@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Symfony/Linux + Docker/Installation linux",
+  "id": "Symfony/Linux + Docker/Installation linux",
+  "title": "Installation linux",
+  "description": "Symfony dans un environnement linux et docker",
+  "source": "@site/docs/Symfony/Linux + Docker/Installation linux.md",
+  "sourceDirName": "Symfony/Linux + Docker",
+  "slug": "/Symfony/Linux + Docker/Installation linux",
+  "permalink": "/docs/Symfony/Linux + Docker/Installation linux",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/Installation linux.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation docker",
+    "permalink": "/docs/Symfony/Linux + Docker/Installation docker"
+  },
+  "next": {
+    "title": "Installation vscode",
+    "permalink": "/docs/Symfony/Linux + Docker/Installation vscode"
+  }
+}

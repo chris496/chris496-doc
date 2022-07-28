@@ -13,7 +13,7 @@ npm run start
 
 * deploy auto sur netlify
 
-* https://marvelous-centaur.netlify.app/
+* https://chris496-doc.netlify.app/
 
 # Modifier page d'accueil
 

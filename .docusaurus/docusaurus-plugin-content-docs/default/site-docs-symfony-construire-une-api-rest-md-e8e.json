@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Symfony/Construire une api rest",
+  "id": "Symfony/Construire une api rest",
+  "title": "Construire une api rest",
+  "description": "Toutes les étapes dans un environnement Windows",
+  "source": "@site/docs/Symfony/Construire une api rest.md",
+  "sourceDirName": "Symfony",
+  "slug": "/Symfony/Construire une api rest",
+  "permalink": "/docs/Symfony/Construire une api rest",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Construire une api rest.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Initier un nouveau projet symfony",
+    "permalink": "/docs/Symfony/Linux + Docker/Préparation nouveau projet"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Linux + Docker",
+  "description": "Symfony dans un environnement linux et docker",
+  "slug": "/category/linux--docker",
+  "permalink": "/docs/category/linux--docker",
+  "navigation": {
+    "previous": {
+      "title": "Symfony",
+      "permalink": "/docs/category/symfony"
+    },
+    "next": {
+      "title": "Installer linux",
+      "permalink": "/docs/Symfony/Linux + Docker/Installation linux"
+    }
+  }
+}

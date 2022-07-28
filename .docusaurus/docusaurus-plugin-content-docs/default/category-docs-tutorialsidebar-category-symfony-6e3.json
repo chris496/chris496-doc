@@ -1,0 +1,16 @@
+{
+  "title": "Symfony",
+  "description": "Apprivoiser symfony",
+  "slug": "/category/symfony",
+  "permalink": "/docs/category/symfony",
+  "navigation": {
+    "previous": {
+      "title": "FreePik",
+      "permalink": "/docs/Ressources/FreePik"
+    },
+    "next": {
+      "title": "Linux + Docker",
+      "permalink": "/docs/category/linux--docker"
+    }
+  }
+}

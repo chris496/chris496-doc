@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Symfony/Linux + Docker/Préparation nouveau projet",
+  "id": "Symfony/Linux + Docker/Préparation nouveau projet",
+  "title": "Initier un nouveau projet symfony",
+  "description": "Mettre en place git + docker + ...",
+  "source": "@site/docs\\Symfony\\Linux + Docker\\5-Préparation nouveau projet.md",
+  "sourceDirName": "Symfony/Linux + Docker",
+  "slug": "/Symfony/Linux + Docker/Préparation nouveau projet",
+  "permalink": "/docs/Symfony/Linux + Docker/Préparation nouveau projet",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/5-Préparation nouveau projet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installer vscode",
+    "permalink": "/docs/Symfony/Linux + Docker/Installation vscode"
+  },
+  "next": {
+    "title": "Construire une api rest",
+    "permalink": "/docs/Symfony/Construire une api rest"
+  }
+}

@@ -66,6 +66,30 @@
               }
             },
             {
+              "unversionedId": "OC/PHP/demo1",
+              "id": "OC/PHP/demo1",
+              "title": "Ceci est un test 1",
+              "description": "",
+              "source": "@site/docs/OC/PHP/demo1.md",
+              "sourceDirName": "OC/PHP",
+              "slug": "/OC/PHP/demo1",
+              "permalink": "/docs/OC/PHP/demo1",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/demo1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "p3",
+                "permalink": "/docs/OC/PHP/Projet9/p3"
+              },
+              "next": {
+                "title": "JS",
+                "permalink": "/docs/category/js"
+              }
+            },
+            {
               "unversionedId": "OC/PHP/Projet1/p1",
               "id": "OC/PHP/Projet1/p1",
               "title": "Create a Document",
@@ -277,8 +301,8 @@
                 "permalink": "/docs/category/projet9"
               },
               "next": {
-                "title": "JS",
-                "permalink": "/docs/category/js"
+                "title": "Ceci est un test 1",
+                "permalink": "/docs/OC/PHP/demo1"
               }
             },
             {
@@ -329,6 +353,155 @@
               "previous": {
                 "title": "AdobeExpress",
                 "permalink": "/docs/Ressources/AdobeExpress"
+              },
+              "next": {
+                "title": "Symfony",
+                "permalink": "/docs/category/symfony"
+              }
+            },
+            {
+              "unversionedId": "Symfony/Construire une api rest",
+              "id": "Symfony/Construire une api rest",
+              "title": "Construire une api rest",
+              "description": "Toutes les étapes dans un environnement Windows",
+              "source": "@site/docs/Symfony/Construire une api rest.md",
+              "sourceDirName": "Symfony",
+              "slug": "/Symfony/Construire une api rest",
+              "permalink": "/docs/Symfony/Construire une api rest",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Construire une api rest.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Initier un nouveau projet symfony",
+                "permalink": "/docs/Symfony/Linux + Docker/Préparation nouveau projet"
+              }
+            },
+            {
+              "unversionedId": "Symfony/Linux + Docker/Installation docker",
+              "id": "Symfony/Linux + Docker/Installation docker",
+              "title": "Installer docker",
+              "description": "docker + docker compose",
+              "source": "@site/docs/Symfony/Linux + Docker/2-Installation docker.md",
+              "sourceDirName": "Symfony/Linux + Docker",
+              "slug": "/Symfony/Linux + Docker/Installation docker",
+              "permalink": "/docs/Symfony/Linux + Docker/Installation docker",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/2-Installation docker.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installer linux",
+                "permalink": "/docs/Symfony/Linux + Docker/Installation linux"
+              },
+              "next": {
+                "title": "Installer l'environnement de dev",
+                "permalink": "/docs/Symfony/Linux + Docker/Installation environnement dev"
+              }
+            },
+            {
+              "unversionedId": "Symfony/Linux + Docker/Installation environnement dev",
+              "id": "Symfony/Linux + Docker/Installation environnement dev",
+              "title": "Installer l'environnement de dev",
+              "description": "Cli symfony + PHP + librairies (curl, tokenizer, ...) + composer + nodejs + npm",
+              "source": "@site/docs/Symfony/Linux + Docker/3-Installation environnement dev.md",
+              "sourceDirName": "Symfony/Linux + Docker",
+              "slug": "/Symfony/Linux + Docker/Installation environnement dev",
+              "permalink": "/docs/Symfony/Linux + Docker/Installation environnement dev",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/3-Installation environnement dev.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installer docker",
+                "permalink": "/docs/Symfony/Linux + Docker/Installation docker"
+              },
+              "next": {
+                "title": "Installer vscode",
+                "permalink": "/docs/Symfony/Linux + Docker/Installation vscode"
+              }
+            },
+            {
+              "unversionedId": "Symfony/Linux + Docker/Installation linux",
+              "id": "Symfony/Linux + Docker/Installation linux",
+              "title": "Installer linux",
+              "description": "Distribution ubuntu",
+              "source": "@site/docs/Symfony/Linux + Docker/1-Installation linux.md",
+              "sourceDirName": "Symfony/Linux + Docker",
+              "slug": "/Symfony/Linux + Docker/Installation linux",
+              "permalink": "/docs/Symfony/Linux + Docker/Installation linux",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/1-Installation linux.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Linux + Docker",
+                "permalink": "/docs/category/linux--docker"
+              },
+              "next": {
+                "title": "Installer docker",
+                "permalink": "/docs/Symfony/Linux + Docker/Installation docker"
+              }
+            },
+            {
+              "unversionedId": "Symfony/Linux + Docker/Installation vscode",
+              "id": "Symfony/Linux + Docker/Installation vscode",
+              "title": "Installer vscode",
+              "description": "Installation de vscode + extensions",
+              "source": "@site/docs/Symfony/Linux + Docker/4-Installation vscode.md",
+              "sourceDirName": "Symfony/Linux + Docker",
+              "slug": "/Symfony/Linux + Docker/Installation vscode",
+              "permalink": "/docs/Symfony/Linux + Docker/Installation vscode",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/4-Installation vscode.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installer l'environnement de dev",
+                "permalink": "/docs/Symfony/Linux + Docker/Installation environnement dev"
+              },
+              "next": {
+                "title": "Initier un nouveau projet symfony",
+                "permalink": "/docs/Symfony/Linux + Docker/Préparation nouveau projet"
+              }
+            },
+            {
+              "unversionedId": "Symfony/Linux + Docker/Préparation nouveau projet",
+              "id": "Symfony/Linux + Docker/Préparation nouveau projet",
+              "title": "Initier un nouveau projet symfony",
+              "description": "Mettre en place git + docker + ...",
+              "source": "@site/docs\\Symfony\\Linux + Docker\\5-Préparation nouveau projet.md",
+              "sourceDirName": "Symfony/Linux + Docker",
+              "slug": "/Symfony/Linux + Docker/Préparation nouveau projet",
+              "permalink": "/docs/Symfony/Linux + Docker/Préparation nouveau projet",
+              "draft": false,
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/5-Préparation nouveau projet.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installer vscode",
+                "permalink": "/docs/Symfony/Linux + Docker/Installation vscode"
+              },
+              "next": {
+                "title": "Construire une api rest",
+                "permalink": "/docs/Symfony/Construire une api rest"
               }
             },
             {
@@ -787,6 +960,10 @@
                           "slug": "/category/projet9",
                           "permalink": "/docs/category/projet9"
                         }
+                      },
+                      {
+                        "type": "doc",
+                        "id": "OC/PHP/demo1"
                       }
                     ],
                     "link": {
@@ -842,6 +1019,58 @@
                   "description": "description",
                   "slug": "/category/ressources",
                   "permalink": "/docs/category/ressources"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Symfony",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Linux + Docker",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Symfony/Linux + Docker/Installation linux"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Symfony/Linux + Docker/Installation docker"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Symfony/Linux + Docker/Installation environnement dev"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Symfony/Linux + Docker/Installation vscode"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Symfony/Linux + Docker/Préparation nouveau projet"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Symfony dans un environnement linux et docker",
+                      "slug": "/category/linux--docker",
+                      "permalink": "/docs/category/linux--docker"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Symfony/Construire une api rest"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Apprivoiser symfony",
+                  "slug": "/category/symfony",
+                  "permalink": "/docs/category/symfony"
                 }
               }
             ]

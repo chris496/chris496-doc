@@ -1,8 +1,8 @@
 {
-  "title": "projet1",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
-  "slug": "/category/projet1-1",
-  "permalink": "/docs/category/projet1-1",
+  "title": "Symfony",
+  "description": "Apprivoiser symfony",
+  "slug": "/category/symfony-1",
+  "permalink": "/docs/category/symfony-1",
   "navigation": {
     "previous": {
       "title": "Symfony",

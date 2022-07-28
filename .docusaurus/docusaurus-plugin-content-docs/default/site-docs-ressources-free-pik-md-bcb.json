@@ -19,5 +19,9 @@
   "previous": {
     "title": "AdobeExpress",
     "permalink": "/docs/Ressources/AdobeExpress"
+  },
+  "next": {
+    "title": "Symfony",
+    "permalink": "/docs/category/symfony"
   }
 }

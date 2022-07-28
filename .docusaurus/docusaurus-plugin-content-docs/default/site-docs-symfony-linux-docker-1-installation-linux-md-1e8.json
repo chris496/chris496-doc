@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Symfony/Linux + Docker/Installation linux",
+  "id": "Symfony/Linux + Docker/Installation linux",
+  "title": "Installer linux",
+  "description": "Distribution ubuntu",
+  "source": "@site/docs/Symfony/Linux + Docker/1-Installation linux.md",
+  "sourceDirName": "Symfony/Linux + Docker",
+  "slug": "/Symfony/Linux + Docker/Installation linux",
+  "permalink": "/docs/Symfony/Linux + Docker/Installation linux",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/1-Installation linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Linux + Docker",
+    "permalink": "/docs/category/linux--docker"
+  },
+  "next": {
+    "title": "Installer docker",
+    "permalink": "/docs/Symfony/Linux + Docker/Installation docker"
+  }
+}

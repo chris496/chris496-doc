@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Symfony/test",
+  "id": "Symfony/test",
+  "title": "installation de scoop pour pouvoir installer symfony-cli",
+  "description": "* iwr -useb get.scoop.sh | iex",
+  "source": "@site/docs/Symfony/test.md",
+  "sourceDirName": "Symfony",
+  "slug": "/Symfony/test",
+  "permalink": "/docs/Symfony/test",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Symfony",
+    "permalink": "/docs/category/symfony"
+  }
+}

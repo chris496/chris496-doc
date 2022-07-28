@@ -31,6 +31,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "OC/PHP/demo1",
+              "path": "/docs/OC/PHP/demo1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "OC/PHP/Projet1/p1",
               "path": "/docs/OC/PHP/Projet1/p1",
               "sidebar": "tutorialSidebar"
@@ -83,6 +88,36 @@
             {
               "id": "Ressources/FreePik",
               "path": "/docs/Ressources/FreePik",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Symfony/Construire une api rest",
+              "path": "/docs/Symfony/Construire une api rest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Symfony/Linux + Docker/Installation docker",
+              "path": "/docs/Symfony/Linux + Docker/Installation docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Symfony/Linux + Docker/Installation environnement dev",
+              "path": "/docs/Symfony/Linux + Docker/Installation environnement dev",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Symfony/Linux + Docker/Installation linux",
+              "path": "/docs/Symfony/Linux + Docker/Installation linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Symfony/Linux + Docker/Installation vscode",
+              "path": "/docs/Symfony/Linux + Docker/Installation vscode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Symfony/Linux + Docker/Préparation nouveau projet",
+              "path": "/docs/Symfony/Linux + Docker/Préparation nouveau projet",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -198,6 +233,16 @@
             {
               "id": "/category/ressources",
               "path": "/docs/category/ressources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/symfony",
+              "path": "/docs/category/symfony",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/linux--docker",
+              "path": "/docs/category/linux--docker",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Symfony/Linux + Docker",
+  "id": "Symfony/Linux + Docker",
+  "title": "Linux + Docker",
+  "description": "Symfony dans un environnement linux et docker",
+  "source": "@site/docs/Symfony/Linux + Docker.md",
+  "sourceDirName": "Symfony",
+  "slug": "/Symfony/Linux + Docker",
+  "permalink": "/docs/Symfony/Linux + Docker",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Construire une api rest",
+    "permalink": "/docs/Symfony/Construire une api rest"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Symfony/Préparation nouveau projet",
+  "id": "Symfony/Préparation nouveau projet",
+  "title": "Préparation nouveau projet",
+  "description": "",
+  "source": "@site/docs\\Symfony\\5-Préparation nouveau projet.md",
+  "sourceDirName": "Symfony",
+  "slug": "/Symfony/Préparation nouveau projet",
+  "permalink": "/docs/Symfony/Préparation nouveau projet",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/5-Préparation nouveau projet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation vscode",
+    "permalink": "/docs/Symfony/Linux + Docker/Installation vscode"
+  },
+  "next": {
+    "title": "Construire une api rest",
+    "permalink": "/docs/Symfony/Construire une api rest"
+  }
+}

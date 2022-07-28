@@ -226,6 +226,12 @@
                   }
                 ],
                 "href": "/docs/category/projet9"
+              },
+              {
+                "type": "link",
+                "label": "Ceci est un test 1",
+                "href": "/docs/OC/PHP/demo1",
+                "docId": "OC/PHP/demo1"
               }
             ],
             "href": "/docs/category/php"
@@ -268,6 +274,60 @@
           }
         ],
         "href": "/docs/category/ressources"
+      },
+      {
+        "type": "category",
+        "label": "Symfony",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Linux + Docker",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Installer linux",
+                "href": "/docs/Symfony/Linux + Docker/Installation linux",
+                "docId": "Symfony/Linux + Docker/Installation linux"
+              },
+              {
+                "type": "link",
+                "label": "Installer docker",
+                "href": "/docs/Symfony/Linux + Docker/Installation docker",
+                "docId": "Symfony/Linux + Docker/Installation docker"
+              },
+              {
+                "type": "link",
+                "label": "Installer l'environnement de dev",
+                "href": "/docs/Symfony/Linux + Docker/Installation environnement dev",
+                "docId": "Symfony/Linux + Docker/Installation environnement dev"
+              },
+              {
+                "type": "link",
+                "label": "Installer vscode",
+                "href": "/docs/Symfony/Linux + Docker/Installation vscode",
+                "docId": "Symfony/Linux + Docker/Installation vscode"
+              },
+              {
+                "type": "link",
+                "label": "Initier un nouveau projet symfony",
+                "href": "/docs/Symfony/Linux + Docker/Préparation nouveau projet",
+                "docId": "Symfony/Linux + Docker/Préparation nouveau projet"
+              }
+            ],
+            "href": "/docs/category/linux--docker"
+          },
+          {
+            "type": "link",
+            "label": "Construire une api rest",
+            "href": "/docs/Symfony/Construire une api rest",
+            "docId": "Symfony/Construire une api rest"
+          }
+        ],
+        "href": "/docs/category/symfony"
       }
     ]
   },
@@ -281,6 +341,12 @@
     "OC/JS/demoJs": {
       "id": "OC/JS/demoJs",
       "title": "js1 !",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "OC/PHP/demo1": {
+      "id": "OC/PHP/demo1",
+      "title": "Ceci est un test 1",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
@@ -348,6 +414,42 @@
       "id": "Ressources/FreePik",
       "title": "FreePik",
       "description": "FreePik",
+      "sidebar": "tutorialSidebar"
+    },
+    "Symfony/Construire une api rest": {
+      "id": "Symfony/Construire une api rest",
+      "title": "Construire une api rest",
+      "description": "Toutes les étapes dans un environnement Windows",
+      "sidebar": "tutorialSidebar"
+    },
+    "Symfony/Linux + Docker/Installation docker": {
+      "id": "Symfony/Linux + Docker/Installation docker",
+      "title": "Installer docker",
+      "description": "docker + docker compose",
+      "sidebar": "tutorialSidebar"
+    },
+    "Symfony/Linux + Docker/Installation environnement dev": {
+      "id": "Symfony/Linux + Docker/Installation environnement dev",
+      "title": "Installer l'environnement de dev",
+      "description": "Cli symfony + PHP + librairies (curl, tokenizer, ...) + composer + nodejs + npm",
+      "sidebar": "tutorialSidebar"
+    },
+    "Symfony/Linux + Docker/Installation linux": {
+      "id": "Symfony/Linux + Docker/Installation linux",
+      "title": "Installer linux",
+      "description": "Distribution ubuntu",
+      "sidebar": "tutorialSidebar"
+    },
+    "Symfony/Linux + Docker/Installation vscode": {
+      "id": "Symfony/Linux + Docker/Installation vscode",
+      "title": "Installer vscode",
+      "description": "Installation de vscode + extensions",
+      "sidebar": "tutorialSidebar"
+    },
+    "Symfony/Linux + Docker/Préparation nouveau projet": {
+      "id": "Symfony/Linux + Docker/Préparation nouveau projet",
+      "title": "Initier un nouveau projet symfony",
+      "description": "Mettre en place git + docker + ...",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

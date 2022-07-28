@@ -1,0 +1,25 @@
+{
+  "unversionedId": "Symfony/Linux + Docker/Installation environnement dev",
+  "id": "Symfony/Linux + Docker/Installation environnement dev",
+  "title": "Installer l'environnement de dev",
+  "description": "Cli symfony + PHP + librairies (curl, tokenizer, ...) + composer + nodejs + npm",
+  "source": "@site/docs/Symfony/Linux + Docker/3-Installation environnement dev.md",
+  "sourceDirName": "Symfony/Linux + Docker",
+  "slug": "/Symfony/Linux + Docker/Installation environnement dev",
+  "permalink": "/docs/Symfony/Linux + Docker/Installation environnement dev",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/Symfony/Linux + Docker/3-Installation environnement dev.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installer docker",
+    "permalink": "/docs/Symfony/Linux + Docker/Installation docker"
+  },
+  "next": {
+    "title": "Installer vscode",
+    "permalink": "/docs/Symfony/Linux + Docker/Installation vscode"
+  }
+}

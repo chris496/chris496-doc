@@ -44,11 +44,17 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd5c'),
+    component: ComponentCreator('/docs', '7b1'),
     routes: [
       {
         path: '/docs/category/js',
         component: ComponentCreator('/docs/category/js', 'a26'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/linux--docker',
+        component: ComponentCreator('/docs/category/linux--docker', '4e5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -125,6 +131,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/docs/category/symfony',
+        component: ComponentCreator('/docs/category/symfony', 'b54'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/docs/category/tutorial---basics',
         component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
         exact: true,
@@ -145,6 +157,12 @@ export default [
       {
         path: '/docs/OC/JS/demoJs',
         component: ComponentCreator('/docs/OC/JS/demoJs', 'bb1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/OC/PHP/demo1',
+        component: ComponentCreator('/docs/OC/PHP/demo1', '023'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -211,6 +229,42 @@ export default [
       {
         path: '/docs/Ressources/FreePik',
         component: ComponentCreator('/docs/Ressources/FreePik', '35e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Symfony/Construire une api rest',
+        component: ComponentCreator('/docs/Symfony/Construire une api rest', 'c0a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Symfony/Linux + Docker/Installation docker',
+        component: ComponentCreator('/docs/Symfony/Linux + Docker/Installation docker', 'f5b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Symfony/Linux + Docker/Installation environnement dev',
+        component: ComponentCreator('/docs/Symfony/Linux + Docker/Installation environnement dev', '9ae'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Symfony/Linux + Docker/Installation linux',
+        component: ComponentCreator('/docs/Symfony/Linux + Docker/Installation linux', 'c53'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Symfony/Linux + Docker/Installation vscode',
+        component: ComponentCreator('/docs/Symfony/Linux + Docker/Installation vscode', '103'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Symfony/Linux + Docker/Préparation nouveau projet',
+        component: ComponentCreator('/docs/Symfony/Linux + Docker/Préparation nouveau projet', 'c9c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
