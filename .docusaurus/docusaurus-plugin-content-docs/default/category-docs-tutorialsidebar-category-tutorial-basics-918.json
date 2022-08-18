@@ -5,8 +5,8 @@
   "permalink": "/docs/category/tutorial---basics",
   "navigation": {
     "previous": {
-      "title": "Gestion documentaire",
-      "permalink": "/docs/intro"
+      "title": "Construire une api rest",
+      "permalink": "/docs/Symfony/Construire une api rest"
     },
     "next": {
       "title": "Create a Page",

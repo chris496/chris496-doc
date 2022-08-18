@@ -76,8 +76,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "OC/PHP/Projet6/p3",
-              "path": "/docs/OC/PHP/Projet6/p3",
+              "id": "OC/PHP/Projet6/Modèle de données",
+              "path": "/docs/OC/PHP/Projet6/Modèle de données",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -176,16 +176,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/oc",
               "path": "/docs/category/oc",
               "sidebar": "tutorialSidebar"
@@ -263,6 +253,16 @@
             {
               "id": "/category/linux--docker",
               "path": "/docs/category/linux--docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],

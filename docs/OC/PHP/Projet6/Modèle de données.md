@@ -1,0 +1,1 @@
+![Docusaurus logo](/img/perso\p6\mcd_p6.png)

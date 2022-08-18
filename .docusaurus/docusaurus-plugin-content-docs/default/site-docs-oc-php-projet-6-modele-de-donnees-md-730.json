@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Projet6/Modèle de données",
+  "id": "OC/PHP/Projet6/Modèle de données",
+  "title": "Modèle de données",
+  "description": "Docusaurus logo",
+  "source": "@site/docs\\OC\\PHP\\Projet6\\Modèle de données.md",
+  "sourceDirName": "OC/PHP/Projet6",
+  "slug": "/OC/PHP/Projet6/Modèle de données",
+  "permalink": "/docs/OC/PHP/Projet6/Modèle de données",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet6/Modèle de données.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "projet6",
+    "permalink": "/docs/category/projet6"
+  },
+  "next": {
+    "title": "projet7",
+    "permalink": "/docs/category/projet7"
+  }
+}

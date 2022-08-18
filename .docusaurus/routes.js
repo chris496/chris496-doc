@@ -4,47 +4,47 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '1f4'),
+    component: ComponentCreator('/__docusaurus/debug', '207'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'ade'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'aa2'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '722'),
+    component: ComponentCreator('/__docusaurus/debug/content', '5dd'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '26b'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'e01'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'e0c'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '8f7'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '228'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '067'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '739'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '430'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '668'),
+    component: ComponentCreator('/markdown-page', 'dc2'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ea6'),
+    component: ComponentCreator('/docs', 'f1c'),
     routes: [
       {
         path: '/docs/category/js',
@@ -221,8 +221,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/OC/PHP/Projet6/p3',
-        component: ComponentCreator('/docs/OC/PHP/Projet6/p3', 'd01'),
+        path: '/docs/OC/PHP/Projet6/Modèle de données',
+        component: ComponentCreator('/docs/OC/PHP/Projet6/Modèle de données', '1c0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -344,7 +344,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b66'),
+    component: ComponentCreator('/', 'a04'),
     exact: true
   },
   {

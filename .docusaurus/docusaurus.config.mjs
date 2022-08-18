@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\sidebars.js",
+          "sidebarPath": "C:\\Users\\Chris\\Documents\\Alternance_OC-GRANJARD\\doc md\\chris496-doc\\sidebars.js",
           "editUrl": "https://github.com/chris496/chris496-doc"
         },
         "blog": {
@@ -34,14 +34,14 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\Chris\\Documents\\Alternance_OC-GRANJARD\\doc md\\chris496-doc\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "plugins": [
     [
-      "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\node_modules\\@cmfcmf\\docusaurus-search-local\\lib\\server\\index.js",
+      "C:\\Users\\Chris\\Documents\\Alternance_OC-GRANJARD\\doc md\\chris496-doc\\node_modules\\@cmfcmf\\docusaurus-search-local\\lib\\server\\index.js",
       {
         "language": "fr"
       }

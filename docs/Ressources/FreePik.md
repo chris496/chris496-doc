@@ -2,6 +2,6 @@
 sidebar_position: 2
 ---
 
-### FreePik
+### FreePik (bibliothèque d'images)
 
 * https://fr.freepik.com/

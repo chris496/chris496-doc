@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Projet6/Diagramme",
+  "id": "OC/PHP/Projet6/Diagramme",
+  "title": "Diagramme",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Projet6/Diagramme.md",
+  "sourceDirName": "OC/PHP/Projet6",
+  "slug": "/OC/PHP/Projet6/Diagramme",
+  "permalink": "/docs/OC/PHP/Projet6/Diagramme",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet6/Diagramme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "projet6",
+    "permalink": "/docs/category/projet6"
+  },
+  "next": {
+    "title": "projet7",
+    "permalink": "/docs/category/projet7"
+  }
+}

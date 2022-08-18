@@ -1,0 +1,24 @@
+{
+  "unversionedId": "OC/PHP/Projet6/Modele de donnees",
+  "id": "OC/PHP/Projet6/Modele de donnees",
+  "title": "Modele de donnees",
+  "description": "",
+  "source": "@site/docs/OC/PHP/Projet6/Modele de donnees.md",
+  "sourceDirName": "OC/PHP/Projet6",
+  "slug": "/OC/PHP/Projet6/Modele de donnees",
+  "permalink": "/docs/OC/PHP/Projet6/Modele de donnees",
+  "draft": false,
+  "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet6/Modele de donnees.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "projet6",
+    "permalink": "/docs/category/projet6"
+  },
+  "next": {
+    "title": "Modele",
+    "permalink": "/docs/OC/PHP/Projet6/Modele"
+  }
+}

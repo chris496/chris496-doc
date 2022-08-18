@@ -14,9 +14,9 @@
           "editUrlLocalized": "https://github.com/chris496/chris496-doc/i18n/fr/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\sidebars.js",
-          "contentPath": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\docs",
-          "contentPathLocalized": "C:\\Users\\cdumas\\Desktop\\formation\\chris496-doc\\i18n\\fr\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\Chris\\Documents\\Alternance_OC-GRANJARD\\doc md\\chris496-doc\\sidebars.js",
+          "contentPath": "C:\\Users\\Chris\\Documents\\Alternance_OC-GRANJARD\\doc md\\chris496-doc\\docs",
+          "contentPathLocalized": "C:\\Users\\Chris\\Documents\\Alternance_OC-GRANJARD\\doc md\\chris496-doc\\i18n\\fr\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "intro",
@@ -37,8 +37,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "OC",
+                "permalink": "/docs/category/oc"
               }
             },
             {
@@ -282,16 +282,16 @@
               }
             },
             {
-              "unversionedId": "OC/PHP/Projet6/p3",
-              "id": "OC/PHP/Projet6/p3",
-              "title": "p3",
-              "description": "",
-              "source": "@site/docs/OC/PHP/Projet6/p3.md",
+              "unversionedId": "OC/PHP/Projet6/Modèle de données",
+              "id": "OC/PHP/Projet6/Modèle de données",
+              "title": "Modèle de données",
+              "description": "Docusaurus logo",
+              "source": "@site/docs\\OC\\PHP\\Projet6\\Modèle de données.md",
               "sourceDirName": "OC/PHP/Projet6",
-              "slug": "/OC/PHP/Projet6/p3",
-              "permalink": "/docs/OC/PHP/Projet6/p3",
+              "slug": "/OC/PHP/Projet6/Modèle de données",
+              "permalink": "/docs/OC/PHP/Projet6/Modèle de données",
               "draft": false,
-              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet6/p3.md",
+              "editUrl": "https://github.com/chris496/chris496-doc/docs/OC/PHP/Projet6/Modèle de données.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -408,7 +408,7 @@
               "unversionedId": "Ressources/FreePik",
               "id": "Ressources/FreePik",
               "title": "FreePik",
-              "description": "FreePik",
+              "description": "FreePik (bibliothèque d'images)",
               "source": "@site/docs/Ressources/FreePik.md",
               "sourceDirName": "Ressources",
               "slug": "/Ressources/FreePik",
@@ -449,6 +449,10 @@
               "previous": {
                 "title": "Initier un nouveau projet symfony",
                 "permalink": "/docs/Symfony/Linux + Docker/Préparation nouveau projet"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/docs/category/tutorial---basics"
               }
             },
             {
@@ -786,10 +790,6 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/docs/tutorial-extras/manage-docs-versions"
-              },
-              "next": {
-                "title": "OC",
-                "permalink": "/docs/category/oc"
               }
             }
           ],
@@ -799,65 +799,6 @@
               {
                 "type": "doc",
                 "id": "intro"
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Basics",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Extras",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/docs/category/tutorial---extras"
-                }
               },
               {
                 "type": "category",
@@ -999,7 +940,7 @@
                         "items": [
                           {
                             "type": "doc",
-                            "id": "OC/PHP/Projet6/p3"
+                            "id": "OC/PHP/Projet6/Modèle de données"
                           }
                         ],
                         "link": {
@@ -1169,6 +1110,65 @@
                   "description": "Apprivoiser symfony",
                   "slug": "/category/symfony",
                   "permalink": "/docs/category/symfony"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutorial---basics",
+                  "permalink": "/docs/category/tutorial---basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---extras",
+                  "permalink": "/docs/category/tutorial---extras"
                 }
               }
             ]

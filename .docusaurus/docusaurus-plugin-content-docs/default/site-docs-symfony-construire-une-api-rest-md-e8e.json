@@ -16,5 +16,9 @@
   "previous": {
     "title": "Initier un nouveau projet symfony",
     "permalink": "/docs/Symfony/Linux + Docker/Préparation nouveau projet"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
   }
 }
